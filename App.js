@@ -16,13 +16,13 @@ const quizData = [
     data: [
       {
         question: 'Who is known as the G.O.A.T of football?',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/330px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg', // Messi image
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/330px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg',
         options: ['Lionel Messi', 'Cristiano Ronaldo', 'Neymar', 'Mbappe'],
         answer: 'Cristiano Ronaldo',
       },
       {
         question: 'Which player is known as "CR7"?',
-        image: 'https://media.gettyimages.com/id/1457728653/photo/paris-saint-germain-v-riyadh-xi-winter-tour-2023-day-2.jpg?s=612x612&w=gi&k=20&c=W21nXiQW-hN5idFmymM9ZRnu1SxH36pKhAwKJ_T2B6M=', // Ronaldo image
+        image: 'https://media.gettyimages.com/id/1457728653/photo/paris-saint-germain-v-riyadh-xi-winter-tour-2023-day-2.jpg?s=612x612&w=gi&k=20&c=W21nXiQW-hN5idFmymM9ZRnu1SxH36pKhAwKJ_T2B6M=', 
         options: ['Cristiano Ronaldo', 'Lionel Messi', 'Zlatan Ibrahimović', 'Kevin De Bruyne'],
         answer: 'Cristiano Ronaldo',
       },
@@ -33,13 +33,13 @@ const quizData = [
     data: [
       {
         question: 'Which club is known as "The Reds"?',
-        image: 'https://media.gettyimages.com/id/1471474708/photo/liverpool-fc-v-manchester-united-premier-league.jpg?s=612x612&w=gi&k=20&c=xTHK3D5E_ScaQnHnmRZq3wBVf7FFBXhJbuM8sm8FWgk=', // Manchester United logo
+        image: 'https://media.gettyimages.com/id/1471474708/photo/liverpool-fc-v-manchester-united-premier-league.jpg?s=612x612&w=gi&k=20&c=xTHK3D5E_ScaQnHnmRZq3wBVf7FFBXhJbuM8sm8FWgk=', 
         options: ['Manchester United', 'Liverpool', 'Arsenal', 'Chelsea'],
         answer: 'Liverpool',
       },
       {
         question: 'Which club has the nickname "The Citizens"?',
-        image: 'https://media.gettyimages.com/id/1492288514/photo/manchester-city-v-chelsea-fc-premier-league.jpg?s=612x612&w=gi&k=20&c=ku_oW2r-BywB7Pj4TNXDLS-O7r3JSCWd2M1BhEMeQcw=', // Manchester City logo
+        image: 'https://media.gettyimages.com/id/1492288514/photo/manchester-city-v-chelsea-fc-premier-league.jpg?s=612x612&w=gi&k=20&c=ku_oW2r-BywB7Pj4TNXDLS-O7r3JSCWd2M1BhEMeQcw=', 
         options: ['Manchester City', 'Tottenham', 'Everton', 'Leicester City'],
         answer: 'Manchester City',
       },
